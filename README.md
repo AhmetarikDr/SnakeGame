@@ -1,5 +1,5 @@
 # SnakeGame
-Finals for game programming 2
+Finals for basic programming 2
 
 It's the basic snake game, you move with W,A,S,D and try to eat apples.
 If you hit a wall or yourself you die.
